@@ -1,10 +1,22 @@
 // TO INSTALL :  go to folder directory in command line and write  "npm install"
+
+
 // TO RUN APP ON  IOS OR ANDROID:  
      1. run "npm start" in folder directory to open Metro Bundler in the web browser
      2. choose tunnel option and run expo app on your mobile phone
      
      
+// ABOUT COMPONENTS 
+     1. This is a highly component based application
+     2. All reusable components dealing with typography such as color pallete, headings and paragraphs are in the commons folder
+     3. the components folder contains higher level components
+     4. the screens folder contains different screens 
      
      
-     About Components 
+// THINGS TO NOTE:
+     1: All colors are in  the colors.js file and imported when need,  and new colors should be added to the pallet
+     2. Different screens should be created for different pages
+     
+     
+     
  
